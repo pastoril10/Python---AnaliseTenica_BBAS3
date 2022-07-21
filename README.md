@@ -1,2 +1,3 @@
-# Python---AnaliseTenica_BBAS3
+# Python - Análise técnica das ações do BBAS3
+
 Análise técnica utilizando a biblioteca ta (Technical Analysis)
